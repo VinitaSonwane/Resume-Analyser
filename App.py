@@ -14,6 +14,7 @@ if not os.path.exists(model_path):
 nlp = spacy.load(model_path)
 
 
+
 import pandas as pd
 import base64
 import random
@@ -30,10 +31,11 @@ import random
 from streamlit_tags import st_tags
 from PIL import Image
 import pymysql
-from Courses import ds_course, web_course, android_course, ios_course, uiux_course, resume_videos, interview_videos
 import pafy
 import plotly.express as px
 import youtube_dl
+from Courses import ds_course, web_course, android_course, ios_course, uiux_course, resume_videos, interview_videos
+
 
 def fetch_yt_video(link):
     video = pafy.new(link)

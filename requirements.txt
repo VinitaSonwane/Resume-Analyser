@@ -17,3 +17,4 @@ blis==0.7.8
 srsly==1.0.2
 wasabi==0.4.2
 en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.2.0/en_core_web_sm-2.2.0.tar.gz
+
