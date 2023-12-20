@@ -4,8 +4,7 @@ By-Chaitanya
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                 
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)   
 
-![image](![Parsers-Banner](https://github.com/MateChaitanya/Resume-Analyser/assets/99747639/3c92125e-add5-4db9-beb4-94ccaad13157)
-)
+![Parsers-Banner](https://github.com/MateChaitanya/Resume-Analyser/assets/99747639/80f5ae85-dc0d-43fa-9383-670e5a77b715)
 
 
 ## Source
@@ -40,20 +39,24 @@ By-Chaitanya
 ## Screenshots
 
 ## User side
-![Screenshot (98)](https://github.com/MateChaitanya/Smart-Resume-Analyser/assets/99747639/a96b6492-a5e8-4ec0-be25-64e298ce13ce)
+![Screenshot (98)](https://github.com/MateChaitanya/Resume-Analyser/assets/99747639/b83d2740-ca2c-4474-be5c-ad73ff0ce94f)
+
 
 
 ## Admin Side
-![Screenshot (100)](https://github.com/MateChaitanya/Smart-Resume-Analyser/assets/99747639/883aafbc-6361-4ae1-a4ab-033d130b3c7e)
+![Screenshot (100)](https://github.com/MateChaitanya/Resume-Analyser/assets/99747639/5c80d090-cee6-4ec2-934c-e770e3adad01)
+
 
 ##User's Data
-![Screenshot (103)](https://github.com/MateChaitanya/Smart-Resume-Analyser/assets/99747639/65539adf-6dde-422f-b958-63743f6b7e1e)
+![Screenshot (103)](https://github.com/MateChaitanya/Resume-Analyser/assets/99747639/e860b41a-974e-42e3-aa42-feb6e22acb2c)
+
 
 ##Pie-Chart for Predicted Field Recommendations
-![Screenshot (106)](https://github.com/MateChaitanya/Smart-Resume-Analyser/assets/99747639/e5d37b7d-cefd-4f0f-a993-69edc8cab6df)
+![Screenshot (106)](https://github.com/MateChaitanya/Resume-Analyser/assets/99747639/193b1b63-b09b-4c10-a9da-1c8d4c4c65e0)
+
 
 ##Pie-Chart for User's Experienced Level
-![Screenshot (107)](https://github.com/MateChaitanya/Smart-Resume-Analyser/assets/99747639/314a37db-c5d8-498e-b679-84c3c38052e0)
+![Screenshot (107)](https://github.com/MateChaitanya/Resume-Analyser/assets/99747639/018a8637-a65d-4ec2-a091-933353cb7cfd)
 
 
 
