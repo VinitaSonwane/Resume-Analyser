@@ -4,7 +4,9 @@ By-Chaitanya
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                 
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)   
 
-![image](https://github.com/MateChaitanya/Smart-Resume-Analyser/assets/99747639/43b49e3c-cac3-476a-aa3f-a865c1b7ae1c)
+![image](![Parsers-Banner](https://github.com/MateChaitanya/Resume-Analyser/assets/99747639/3c92125e-add5-4db9-beb4-94ccaad13157)
+)
+
 
 ## Source
 - Extracting user's information from the Resume, I used [PyResparser](https://omkarpathak.in/pyresparser/)
