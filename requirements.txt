@@ -11,4 +11,4 @@ youtube-dl
 nltk
 pdfminer3
 spacy==2.3.5
-!python -m spacy download en_core_web_sm
+en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.2.0/en_core_web_sm-2.2.0.tar.gz
