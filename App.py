@@ -4,17 +4,29 @@ import spacy
 nltk.download('stopwords')
 import en_core_web_sm
 nlp = en_core_web_sm.load()
+import spacy
+import os
+
+# Explicitly download and load the model
+model_path = "/path/to/en_core_web_sm-2.2.0"
+if not os.path.exists(model_path):
+    os.system(f"python -m spacy download en_core_web_sm==2.2.0")
+nlp = spacy.load(model_path)
+
 
 import pandas as pd
-import base64, random
-import time, datetime
+import base64
+import random
+import time
+import datetime
 from pyresparser import ResumeParser
 from pdfminer3.layout import LAParams, LTTextBox
 from pdfminer3.pdfpage import PDFPage
 from pdfminer3.pdfinterp import PDFResourceManager
 from pdfminer3.pdfinterp import PDFPageInterpreter
 from pdfminer3.converter import TextConverter
-import io, random
+import io
+import random
 from streamlit_tags import st_tags
 from PIL import Image
 import pymysql
