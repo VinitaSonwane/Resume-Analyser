@@ -2,40 +2,25 @@ import streamlit as st
 import nltk
 import spacy
 nltk.download('stopwords')
-import en_core_web_sm
-nlp = en_core_web_sm.load()
-import spacy
-import os
-
-# Explicitly download and load the model
-model_path = "/path/to/en_core_web_sm-2.2.0"
-if not os.path.exists(model_path):
-    os.system(f"python -m spacy download en_core_web_sm==2.2.0")
-nlp = spacy.load(model_path)
-
-
+spacy.load'en_core_web_sm'()
 
 import pandas as pd
-import base64
-import random
-import time
-import datetime
+import base64, random
+import time, datetime
 from pyresparser import ResumeParser
 from pdfminer3.layout import LAParams, LTTextBox
 from pdfminer3.pdfpage import PDFPage
 from pdfminer3.pdfinterp import PDFResourceManager
 from pdfminer3.pdfinterp import PDFPageInterpreter
 from pdfminer3.converter import TextConverter
-import io
-import random
+import io, random
 from streamlit_tags import st_tags
 from PIL import Image
 import pymysql
+from Courses import ds_course, web_course, android_course, ios_course, uiux_course, resume_videos, interview_videos
 import pafy
 import plotly.express as px
 import youtube_dl
-from Courses import ds_course, web_course, android_course, ios_course, uiux_course, resume_videos, interview_videos
-
 
 def fetch_yt_video(link):
     video = pafy.new(link)
