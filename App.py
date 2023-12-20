@@ -187,8 +187,8 @@ def run():
                 st.subheader("**Skills Recommendation💡**")
                 ## Skill shows
                 keywords = st_tags(label='### Skills that you have',
-                                   text='See our skills recommendation',
-                                   value=resume_data['skills'], key='1')
+                   text='See our skills recommendation',
+                   value=resume_data['skills'].split(','), key='1')
 
                 ##  recommendation
                 ds_keyword = ['tensorflow', 'keras', 'pytorch', 'machine learning', 'deep Learning', 'flask',
