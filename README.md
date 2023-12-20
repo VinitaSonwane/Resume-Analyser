@@ -4,7 +4,7 @@ By-Chaitanya
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                 
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)   
 
-![Parsers-Banner](https://github.com/MateChaitanya/Resume-Analyser/assets/99747639/80f5ae85-dc0d-43fa-9383-670e5a77b715)
+![image](https://github.com/MateChaitanya/Resume-Analyser/assets/99747639/80f5ae85-dc0d-43fa-9383-670e5a77b715)
 
 
 ## Source
