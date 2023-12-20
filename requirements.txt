@@ -11,3 +11,4 @@ youtube-dl
 nltk
 pdfminer3
 spacy==2.3.5
+en_core_web_sm
